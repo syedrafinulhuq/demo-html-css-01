@@ -1,0 +1,37 @@
+.{
+	margin: 0;
+	padding: 0;
+}
+
+.navlist{
+
+	text-decoration: none;
+	list-style: none;
+	text-align: center;
+	font-family: 'Aboreto', cursive;
+
+
+}
+a{
+	text-decoration: none;
+	font-size: 18px;
+	letter spacing: 2px;
+}
+
+a:hover{
+	color: navy;
+}
+
+li{
+	list-style: none;
+	text-decoration: none;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+
+
+}
+
+img{
+	width: 100%;
+}
